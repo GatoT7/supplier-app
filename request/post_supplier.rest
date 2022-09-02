@@ -1,0 +1,9 @@
+POST  http://localhost:3001/api/suppliers
+Content-Type: application/json
+
+{
+    "logo": "esto es una url",
+    "name": "oh my chalk",
+    "description": "pintura a la tiza",
+    "file": "otra url"
+}

@@ -1,0 +1,9 @@
+PUT  http://localhost:3001/api/suppliers/
+Content-Type: application/json
+
+{
+    "logo": "esto es una url que actualice",
+    "name": "oh my chalk con mayuscula",
+    "description": "pintura a la tiza y otras cosas",
+    "file": "otra url que actualice"
+}
